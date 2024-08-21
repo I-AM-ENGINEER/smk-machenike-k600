@@ -39,9 +39,9 @@
 #define KB_C13_P2_1 _P2_1
 #define KB_C14_P2_0 _P2_0
 #define KB_C15_P1_5 _P1_5
-#define KB_C13_P1_4 _P1_4
-#define KB_C14_P1_3 _P1_3
-#define KB_C15_P1_2 _P1_2
+#define KB_C16_P1_4 _P1_4
+#define KB_C17_P1_3 _P1_3
+#define KB_C18_P1_2 _P1_2
 
 // Column Pins
 #define KB_C0 P5_0
@@ -60,8 +60,8 @@
 #define KB_C13 P2_1
 #define KB_C14 P2_0
 #define KB_C15 P1_5
-#define KB_C13 P1_4
-#define KB_C14 P1_3
-#define KB_C15 P1_2
+#define KB_C16 P1_4
+#define KB_C17 P1_3
+#define KB_C18 P1_2
 
 #endif
