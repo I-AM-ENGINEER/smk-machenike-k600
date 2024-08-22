@@ -20,6 +20,7 @@ default_options = {
 parts = [
     # keyboard, platform, layouts, options
     ['example', 'sh68f90a', ['default'], {}],
+    ['machenike-k600-b100', 'sh68f90a', ['default'], { 'vendor_id': '0x258a', 'product_id': '0x0049' }],
     ['nuphy-air60', 'sh68f90a', ['default'], { 'vendor_id': '0x05ac', 'product_id': '0x024f' }],
     ['eyooso-z11', 'sh68f90a', ['default'], { 'vendor_id': '0x258a', 'product_id': '0x002a' }],
 ]

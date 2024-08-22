@@ -7,7 +7,7 @@
 #define MATRIX_COLS 19
 
 // Row Pins Bits
-#define KB_R0_P7_1 _P7_0
+#define KB_R0_P7_0 _P7_0
 #define KB_R1_P7_1 _P7_1
 #define KB_R2_P7_2 _P7_2
 #define KB_R3_P7_3 _P7_3
